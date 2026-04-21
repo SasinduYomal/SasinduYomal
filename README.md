@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=Sasindu%20Yomal&fontSize=70&animation=fadeIn" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&pause=1000&color=F72EE2&center=true&vCenter=true&width=600&lines=Hi+I'm+Sasindu+Yomal+👋" alt="Header SVG" />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F72EE2&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Flutter+Mobile+App+Dev;UI%2FUX+Designer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Flutter+Mobile+App+Dev;UI%2FUX+Designer" alt="Typing SVG" />
   </a>
 </p>
 
