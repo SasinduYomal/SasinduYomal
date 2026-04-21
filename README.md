@@ -1,10 +1,14 @@
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=200&section=header&text=Sasindu%20Yomal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-end%20Developer%20%7C%20Flutter%20Enthusiast&descAlignY=55&descColor=EEEDFE" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Sasindu+%F0%9F%91%8B;Front-end+Developer;Flutter+Enthusiast;Competitive+Programmer;SLIIT+Undergraduate" alt="Typing SVG" />
+
 <br/>
-[![GitHub followers](https://img.shields.io/github/followers/SasinduYomal?label=Followers&style=flat&color=7F77DD&labelColor=EEEDFE)](https://github.com/SasinduYomal)
-[![Profile Views](https://komarev.com/ghpvc/?username=SasinduYomal&color=7F77DD&style=flat&label=Profile+Views)](https://github.com/SasinduYomal)
- 
+
+<img src="https://img.shields.io/github/followers/SasinduYomal?label=Followers&style=flat&color=7F77DD&labelColor=EEEDFE" />
+<img src="https://komarev.com/ghpvc/?username=SasinduYomal&color=7F77DD&style=flat&label=Profile+Views" />
+
 </div>
 
 ---
@@ -12,13 +16,13 @@
 ## ⚡ About Me
 
 ```yaml
-name     : Sasindu Yomal
-alias    : Sasi
-location : Sri Lanka 🇱🇰
+name      : Sasindu Yomal
+alias     : Sasi
+location  : Sri Lanka 🇱🇰
 university: SLIIT (Undergraduate)
-learning : Angular
-ask_me   : Web Development | OOP | Flutter
-email    : sasinduyomal@gmail.com
+learning  : Angular
+ask_me    : Web Development | OOP | Flutter
+email     : sasinduyomal@gmail.com
 ```
 
 ---
@@ -59,11 +63,15 @@ email    : sasinduyomal@gmail.com
 ## 🌐 Connect With Me
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sasindu-yomal-a42a3a36b/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sasinduyomal@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-7F77DD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrBlueBird2)
-
+  <a href="https://www.linkedin.com/in/sasindu-yomal-a42a3a36b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sasinduyomal@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/MrBlueBird2">
+    <img src="https://img.shields.io/badge/GitHub-7F77DD?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
 ---
@@ -72,8 +80,6 @@ email    : sasinduyomal@gmail.com
 
 > *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
-<br/>
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=120&section=footer&animation=fadeIn" />
 
 </div>
