@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=Hi%20I%20am%20Sasindu&fontSize=80&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=Sasindu%20Yomal&fontSize=70&animation=fadeIn" />
 </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F72EE2&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Flutter+Mobile+App+Dev;UI%2FUX+Designer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F72EE2&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Flutter+Mobile+App+Dev;UI%2FUX+Designer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,9 +17,9 @@
     <td width="55%" style="vertical-align: top;">
       <ul>
         <li>🎓 4th Year Undergraduate at <b>SLIIT</b></li>
-        <li>💻 Currently focusing on <b>MERN Stack</b> & <b>Flutter Development</b></li>
-        <li>🚀 Working on <b>Intelligent Monitoring Systems</b> & <b>Mobile Apps</b></li>
-        <li>🌱 Learning <b>Angular</b> & <b>Cloud Architecture</b></li>
+        <li>💻 Passionate about <b>MERN Stack</b> & <b>Flutter Development</b></li>
+        <li>🚀 Building <b>Intelligent Ward Monitoring Systems</b></li>
+        <li>🌱 Learning <b>Angular</b> & <b>Cloud Computing</b></li>
         <li>💬 Ask me about <b>React, Node.js, or Dart</b></li>
         <li>📫 Reach me at: <a href="mailto:sasinduyomal@gmail.com">sasinduyomal@gmail.com</a></li>
         <li>⚡ Fun fact: <b>Call me Sasi</b></li>
