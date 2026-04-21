@@ -1,30 +1,28 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=200&section=header&text=Sasindu%20Yomal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-end%20Developer%20%7C%20Flutter%20Enthusiast&descAlignY=55&descColor=EEEDFE" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Sasindu+%F0%9F%91%8B;Front-end+Developer;Flutter+Enthusiast;Competitive+Programmer;SLIIT+Undergraduate" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://img.shields.io/github/followers/SasinduYomal?label=Followers&style=flat&color=7F77DD&labelColor=EEEDFE" />
-<img src="https://komarev.com/ghpvc/?username=SasinduYomal&color=7F77DD&style=flat&label=Profile+Views" />
-
-</div>
-
+<p align="center">
+  <h1 align="center">Hi 👋, I'm <a href="https://github.com/MrBlueBird2">Sasindu Yomal 👋</h1>
+</p>
+<p align="center">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer" /></a>
+</p>
 ---
+## 🌟 About Me
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
 
-## ⚡ About Me
+🌱 I’m currently learning **Angular**
+🧑‍🎓 I’m an Undergraduate at **SLIIT**
+💬 Ask me about **Web development | OOC**
+📫 How to reach me **sasinduyomal@gmail.com**
 
-```yaml
-name      : Sasindu Yomal
-alias     : Sasi
-location  : Sri Lanka 🇱🇰
-university: SLIIT (Undergraduate)
-learning  : Angular
-ask_me    : Web Development | OOP | Flutter
-email     : sasinduyomal@gmail.com
-```
+⚡ Fun fact **Call me as Sasi**
+</td>
+<td width="50%" align="center">
+<img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
+</td>
+</tr>
+</table> 
 ---
 
 ## 🛠️ Languages & Tools
