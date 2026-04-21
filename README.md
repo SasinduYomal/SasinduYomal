@@ -1,77 +1,71 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&pause=1000&color=F72EE2&center=true&vCenter=true&width=600&lines=Hi+I'm+Sasindu+Yomal+👋" alt="Header SVG" />
-  </a>
+  <h1 align="center">Hi 👋, I'm <a href="https://github.com/MrBlueBird2">Sasindu Yomal</a> 👋</h1>
 </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Flutter+Mobile+App+Dev;UI%2FUX+Designer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer" />
   </a>
 </p>
 
 ---
 
-## 💫 About Me
+## 🌟 About Me
 
 <table align="center">
-  <tr>
-    <td width="55%" style="vertical-align: top;">
-      <ul>
-        <li>🎓 4th Year Undergraduate at <b>SLIIT</b></li>
-        <li>💻 Passionate about <b>MERN Stack</b> & <b>Flutter Development</b></li>
-        <li>🚀 Building <b>Intelligent Ward Monitoring Systems</b></li>
-        <li>🌱 Learning <b>Angular</b> & <b>Cloud Computing</b></li>
-        <li>💬 Ask me about <b>React, Node.js, or Dart</b></li>
-        <li>📫 Reach me at: <a href="mailto:sasinduyomal@gmail.com">sasinduyomal@gmail.com</a></li>
-        <li>⚡ Fun fact: <b>Call me Sasi</b></li>
-      </ul>
-    </td>
-    <td width="45%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SasinduYomal&layout=compact&theme=radical&hide_border=true" width="100%" />
-    </td>
-  </tr>
+<tr border="none">
+<td width="50%" align="left">
+
+- 🌱 I'm currently learning **Angular**
+- 🧑‍🎓 I'm an Undergraduate at **SLIIT**
+- 💬 Ask me about **Web development | OOP**
+- 📫 How to reach me **sasinduyomal@gmail.com**
+- ⚡ Fun fact **Call me as Sasi**
+
+</td>
+<td width="50%" align="center">
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+</td>
+</tr>
 </table>
 
 ---
 
-### 🚀 Languages and Tools  
+### 🚀 Languages and Tools
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,php,tailwind,bootstrap,figma,flutter,dart,git,github,vscode,androidstudio" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,php,tailwind,bootstrap,flutter,figma,git,github,vscode,androidstudio" />
 </p>
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SasinduYomal&show_icons=true&theme=radical&rank_icon=github&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SasinduYomal&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SasinduYomal&show_icons=true&theme=radical&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SasinduYomal&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ## 🌐 Connect with Me
 
+<h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/sasindu-yomal-a42a3a36b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:sasinduyomal@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:sasinduyomal@gmail.com" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i> <br>
-  <b>— Cory House</b>
-</p>
+## 💡 Fun Quote
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
-</p>
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+---
+
+## 🌈 Let's Connect & Build Something Amazing Together! 🌟
