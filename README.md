@@ -1,18 +1,10 @@
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║           Welcome to Sasindu Yomal's GitHub              ║
-╚══════════════════════════════════════════════════════════╝
-```
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=200&section=header&text=Sasindu%20Yomal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-end%20Developer%20%7C%20Flutter%20Enthusiast&descAlignY=55&descColor=EEEDFE" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Sasindu+%F0%9F%91%8B;Front-end+Developer;Flutter+Enthusiast;Competitive+Programmer;SLIIT+Undergraduate" alt="Typing SVG" />
-
 <br/>
-
 [![GitHub followers](https://img.shields.io/github/followers/SasinduYomal?label=Followers&style=flat&color=7F77DD&labelColor=EEEDFE)](https://github.com/SasinduYomal)
 [![Profile Views](https://komarev.com/ghpvc/?username=SasinduYomal&color=7F77DD&style=flat&label=Profile+Views)](https://github.com/SasinduYomal)
-
+ 
 </div>
 
 ---
