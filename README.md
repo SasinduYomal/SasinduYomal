@@ -1,96 +1,350 @@
-<p align="center">
 
-  <h1 align="center">Hi 👋I'm <a href="https://github.com/MrBlueBird2">Sasindu Yomal 👋</h1>
+<!-- ============================================== -->
+<!--          SASINDU YOMAL | GITHUB PROFILE        -->
+<!-- ============================================== -->
 
-</p>
+<div align="center">
 
-<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080C18,50:6C63FF,100:00BCD4&height=200&section=header&text=Sasindu%20Yomal&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineering%20Undergraduate&descAlignY=60&descSize=16" />
 
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer" /></a>
+<br/>
 
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Sasindu+Yomal;Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Flutter+%26+Mobile+App+Developer;Building+Creative+Digital+Solutions" alt="Typing SVG" />
 
----
+<br/><br/>
 
-## 🌟 About Me
+<a href="https://github.com/SasinduYomal">
+<img src="https://img.shields.io/badge/GitHub-080C18?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
+<a href="https://www.linkedin.com/in/sasindu-yomal-a42a3a36b/">
+<img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-- 🌱 I'm currently learning **Angular**
-- 🧑‍🎓 I'm an Undergraduate at **SLIIT**
-- 💬 Ask me about **Web development | OOP**
-- 📫 How to reach me **sasinduyomal@gmail.com**
-- ⚡ Fun fact **Call me as Sasi**
+<a href="mailto:sasinduyomal@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-00BCD4?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=SasinduYomal&label=PROFILE+VIEWS&color=6C63FF&style=flat-square" alt="Profile Views"/>
+
+</div>
+
+<br/>
+
+<!-- ============================================== -->
+<!--                  ABOUT ME                      -->
+<!-- ============================================== -->
+
+<h2>01 / About Me 👨‍💻</h2>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### Hello, World! 👋
+
+I'm **Sasindu Yomal**, a passionate Software Engineering Undergraduate at **SLIIT, Sri Lanka** 🇱🇰.
+
+I love transforming ideas into functional, modern, and user-friendly digital experiences.
+
+My interests include Full Stack Development, Mobile Applications, Artificial Intelligence, and Cloud Technologies.
+
+- 🎓 Undergraduate at **SLIIT**
+- 💻 Passionate about **Full Stack Development**
+- 🚀 Working with **MERN Stack**
+- 🌱 Exploring **AI & Cloud Technologies**
+- 📱 Interested in **Flutter Development**
+- 🤝 Open to collaboration
+- 💬 Ask me about **React, Node.js & MongoDB**
+- ⚡ Fun fact: **Call me Sasi!**
 
 </td>
-<td width="50%" align="center">
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+<td width="40%" align="center">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SasinduYomal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-### 🚀 Languages and Tools
+<!-- ============================================== -->
+<!--               DEVELOPER PROFILE                -->
+<!-- ============================================== -->
+
+<h2>02 / Developer Profile 💻</h2>
+
+```javascript
+const sasindu = {
+  name: "Sasindu Yomal",
+  location: "Sri Lanka 🇱🇰",
+  education: "Software Engineering @ SLIIT",
+
+  role: "Full Stack Developer",
+
+  technologies: {
+    frontend: [
+      "React",
+      "Next.js",
+      "JavaScript",
+      "Tailwind CSS"
+    ],
+
+    backend: [
+      "Node.js",
+      "Express.js",
+      "Spring Boot"
+    ],
+
+    databases: [
+      "MongoDB",
+      "MySQL"
+    ],
+
+    mobile: [
+      "Flutter",
+      "Dart"
+    ]
+  },
+
+  interests: [
+    "Full Stack Development",
+    "Artificial Intelligence",
+    "Mobile Applications",
+    "Cloud Computing"
+  ],
+
+  motto: "Build. Learn. Improve. Repeat."
+};
+```
+
+<br/>
+
+<!-- ============================================== -->
+<!--                  TECH STACK                    -->
+<!-- ============================================== -->
+
+<h2>03 / Technologies & Tools ⚡</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,php,tailwind,bootstrap,flutter,figma,git,github,vscode,androidstudio&perline=9" />
+
+<h3>🎨 Frontend Development</h3>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,bootstrap&theme=dark&perline=9" alt="Frontend Skills"/>
+
+<br/><br/>
+
+<h3>⚙️ Backend Development</h3>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,php&theme=dark&perline=6" alt="Backend Skills"/>
+
+<br/><br/>
+
+<h3>🗄️ Databases</h3>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark&perline=3" alt="Databases"/>
+
+<br/><br/>
+
+<h3>📱 Mobile Development</h3>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark&perline=3" alt="Mobile Development"/>
+
+<br/><br/>
+
+<h3>🛠️ Development Tools</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker,linux,vercel&theme=dark&perline=8" alt="Development Tools"/>
+
 </div>
 
----
+<br/>
 
-## 📊 GitHub Stats
+<!-- ============================================== -->
+<!--                FEATURED PROJECTS               -->
+<!-- ============================================== -->
+
+<h2>04 / Featured Projects 🚀</h2>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🌍 Smart Virtual Tourist Guide</h3>
+
+AI-powered tourism platform with intelligent trip planning, navigation, budget management, and travel assistance.
+
+**Tech Stack:**
+
+`React` `Node.js` `Express` `MongoDB`
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🏥 Safe Band</h3>
+
+IoT-based intelligent healthcare monitoring and alert management system with machine learning integration.
+
+**Tech Stack:**
+
+`Python` `Machine Learning` `IoT`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🛒 ShopHub E-Commerce</h3>
+
+Full Stack e-commerce application featuring authentication, product management, shopping cart, and order management.
+
+**Tech Stack:**
+
+`MongoDB` `Express` `React` `Node.js`
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>📱 Travel Companion App</h3>
+
+Cross-platform travel application with trip planning, navigation, and budget management features.
+
+**Tech Stack:**
+
+`Flutter` `Dart` `Firebase`
+
+</td>
+
+</tr>
+</table>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SasinduYomal&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=7F77DD&icon_color=7F77DD" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SasinduYomal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD" />
+
+<a href="https://github.com/SasinduYomal?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
+<br/>
+
+<!-- ============================================== -->
+<!--                  GITHUB STATS                  -->
+<!-- ============================================== -->
+
+<h2>05 / GitHub Analytics 📊</h2>
+
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=SasinduYomal&theme=tokyonight&hide_border=true&background=0D1117&stroke=7F77DD&ring=7F77DD&fire=F72EE2&currStreakLabel=7F77DD" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SasinduYomal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080C18&title_color=9D8CFF&icon_color=00E5FF&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SasinduYomal&layout=compact&theme=tokyonight&hide_border=true&bg_color=080C18&title_color=9D8CFF&text_color=FFFFFF" alt="Top Languages"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=SasinduYomal&theme=tokyonight&hide_border=true&background=080C18&ring=9D8CFF&fire=00E5FF&currStreakLabel=00E5FF" alt="GitHub Streak"/>
+
 </div>
 
+<br/>
+
+<!-- ============================================== -->
+<!--             GITHUB CONTRIBUTIONS               -->
+<!-- ============================================== -->
+
+<h2>06 / Contributions & Achievements 🏆</h2>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SasinduYomal&bg_color=0D1117&color=7F77DD&line=7F77DD&point=F72EE2&hide_border=true" />
+
+<p>
+Explore my coding activity, open-source contributions,
+repositories, and GitHub achievements.
+</p>
+
+<a href="https://github.com/SasinduYomal?tab=overview">
+<img src="https://img.shields.io/badge/VIEW_CONTRIBUTIONS-00BCD4?style=for-the-badge&logo=github&logoColor=white" alt="Contributions"/>
+</a>
+
+<a href="https://github.com/SasinduYomal?tab=achievements">
+<img src="https://img.shields.io/badge/GITHUB_ACHIEVEMENTS-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Achievements"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/SasinduYomal?tab=repositories">
+<img src="https://img.shields.io/badge/OPEN_SOURCE_PROJECTS-080C18?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+</a>
+
 </div>
 
----
+<br/>
 
-## 🏆 Achievements
+<!-- ============================================== -->
+<!--                  CURRENT FOCUS                 -->
+<!-- ============================================== -->
+
+<h2>07 / Currently Exploring 🎯</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SasinduYomal&theme=tokyonight&no-frame=true&column=6&margin-w=10" />
+
+| Area | Current Focus |
+|:---:|:---|
+| 🌐 Full Stack | Modern MERN Applications |
+| ⚙️ Backend | REST APIs & Authentication |
+| 📱 Mobile | Flutter Applications |
+| 🤖 AI | Machine Learning Integration |
+| ☁️ Cloud | Cloud Services & Deployment |
+| 🧩 Software Engineering | Clean Code & Architecture |
+
 </div>
 
----
+<br/>
 
-## 🌐 Connect with Me
+<!-- ============================================== -->
+<!--                  CONNECT                       -->
+<!-- ============================================== -->
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-  <a href="https://www.linkedin.com/in/sasindu-yomal-a42a3a36b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sasinduyomal@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/MrBlueBird2">
-    <img src="https://img.shields.io/badge/GitHub-7F77DD?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
----
-
-## 💡 Fun Quote
-
-> "Code is like humor. When you have to explain it, it's bad." – Cory House
-
----
-
-## 🌈 Let's Connect & Build Something Amazing Together! 🌟
+<h2>08 / Let's Connect 🌐</h2>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=120&section=footer&animation=fadeIn" />
+
+<h3>Have an idea? Let's build something amazing! 🚀</h3>
+
+<p>
+I'm always interested in collaborating, learning new technologies,
+and building meaningful software solutions.
+</p>
+
+<a href="https://www.linkedin.com/in/sasindu-yomal-a42a3a36b/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:sasinduyomal@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://github.com/SasinduYomal">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<h3>💜 Keep Learning. Keep Building. Keep Growing.</h3>
+
+<sub>Made with 💻 and ☕ by Sasindu Yomal</sub>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BCD4,50:6C63FF,100:080C18&height=120&section=footer"/>
+
 </div>
